@@ -30,7 +30,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program :
 DEVELOPED BY S.VENGADA KRISHNAN
 
-REG.NO:23006109
+REG.NO:212223110061
 
 ![5](https://github.com/SVENGADAKRISHNAN/Muttiple-capacity-with-infinite-capacity/assets/147473084/7a332ebd-f2eb-4e1e-9330-dbc9f961c8c8)
 
